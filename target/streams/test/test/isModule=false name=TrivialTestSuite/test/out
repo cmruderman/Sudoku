@@ -1,7 +1,0 @@
-[0m[[0minfo[0m] [0m[32mTrivialTestSuite:[0m[0m
-[0m[[0minfo[0m] [0m[32m- The solution object must be defined[0m[0m
-[0m[[0minfo[0m] [0m[32m- Peers is defined correctly[0m[0m
-[0m[[0minfo[0m] [0m[32m- valueAt is defined correctly[0m[0m
-[0m[[0minfo[0m] [0m[32m- isSolved is defined correctly[0m[0m
-[0m[[0minfo[0m] [0m[32m- isUnsolvable is defined correctly[0m[0m
-[0m[[0minfo[0m] [0m[32m- Solve/Parse is defined correctly[0m[0m
